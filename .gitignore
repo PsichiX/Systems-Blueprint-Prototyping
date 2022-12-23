@@ -1,0 +1,8 @@
+.plastic/
+DerivedDataCache/
+Intermediate/
+Saved/
+Playground/Config/Layouts/
+Playground/Content/Collections/
+Playground/Content/Developers/
+ignore.conf
